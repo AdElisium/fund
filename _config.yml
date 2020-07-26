@@ -4,7 +4,7 @@ email: gouldingmarc@gmail.com
 description: To the Heavens
 github_username: MarcGoulding
 # linkedin: https://www.linkedin.com/in/marc-goulding
-baseurl: /Fund
+baseurl: /fund
 
 # Build settings
-#theme: minima
+theme: minima
