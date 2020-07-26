@@ -8,6 +8,7 @@ We have developed methods to beat the markets during good times and bad times, f
 > "They are safe and they are good" - me (lol)
 
 ---
+
 Get in contact through our Chief Investment Advisor Marc Goulding:
 
 - __email__: gouldingmarc@gmail.com
