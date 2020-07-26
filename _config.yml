@@ -7,4 +7,4 @@ github_username: MarcGoulding
 baseurl: /Fund
 
 # Build settings
-theme: minima
+#theme: minima
