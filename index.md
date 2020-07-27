@@ -27,7 +27,7 @@ __Chief Investment Advisor__ Marc Goulding:
 - __WhatsApp__: +44 789 442 8838
 - __LinkedIn__: bit.ly/marcgoulding
 
-__Head of Operations__ Quique Barragan:
+__Chief of Operations__ Quique Barragan:
 
 - __email__: 
 - __Phone__: 
