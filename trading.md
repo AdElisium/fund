@@ -54,11 +54,9 @@ Martingale with stop loss
 ---
 ### Crypto
 
-Top funds 2020: 
-https://blog.tokenmetrics.com/best-crypto-funds/
+[Top funds 2020](https://blog.tokenmetrics.com/best-crypto-funds/)
 
-Token-Metrics: 
-https://tokenmetrics.com/?ref=moon
+[Token-Metrics](https://tokenmetrics.com/?ref=moon)
 
 PwC analysis report on USB for 2019 & 2020.
 
