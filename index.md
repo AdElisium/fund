@@ -29,6 +29,6 @@ __Chief Investment Advisor__ Marc Goulding:
 
 __Head of Operations__ Quique Barragan:
 
-- __email__: tuputamadre
-- __Phone__: +34 123 456 789
-- __LinkedIn__: oletushuevos
+- __email__: 
+- __Phone__: 
+- __LinkedIn__: 
