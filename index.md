@@ -13,7 +13,7 @@ Our investments are based on our advanced algorithm Plutus, named after the gree
 
 _( Image comparing live data of other fund's performances and ours )_
 
-Plutus manages our investments and proposes new opportunities.
+__Plutus__ manages our investments and proposes new opportunities.
  However, Plutus does not work alone. All decisions are vetted by our Chief Investment Advisor to ensure correct decisions are made at all times.
 
 ---
