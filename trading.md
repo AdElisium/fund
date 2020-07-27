@@ -43,9 +43,9 @@ Trading Bots out there:
 
 ---
 
-## Ideas
+## Trading Algorithm Ideas
 
-Create an index with top 10 coins based on _____
+Create an index with top 10 coins based on ...
 
 Using [fuzzy logic](https://medium.com/@abdulazizalghannami/modeling-trading-decisions-using-fuzzy-logic-ff21c431b961) to build strategies
 
@@ -73,7 +73,12 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 6. [BlueSky Capital](https://www.blueskycapitalmanagement.com/systematic-crypto/)
 7. [Strix Leviathan](https://cryptoslate.com/strix-leviathan-the-crypto-quant-fund-thats-beating-the-market-with-a-differentiated-investment-approach/)
 8. [Mai Capital](https://www.financemagnates.com/cryptocurrency/maicapital-launches-bitcoin-based-quant-fund/)
-9. [Important article](https://www.euromoney.com/article/b1mhf1sxvlphb3/cryptos-crash-but-never-die-and-funds-of-funds-can-profit)
 10. [Tradery](http://tradery.io/)
-11. [Harder than you think](https://www.tokendaily.co/blog/why-building-a-quant-fund-in-crypto-is-harder-than-people-think)
 12. RocketFuel.team
+
+---
+## Random:
+
+[Important article](https://www.euromoney.com/article/b1mhf1sxvlphb3/cryptos-crash-but-never-die-and-funds-of-funds-can-profit)
+
+[Harder than you think](https://www.tokendaily.co/blog/why-building-a-quant-fund-in-crypto-is-harder-than-people-think)
