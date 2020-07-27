@@ -18,9 +18,17 @@ __Plutus__ manages our investments and proposes new opportunities.
 
 ---
 
-Get in contact through our Chief Investment Advisor Marc Goulding:
+### Get in contact:
+
+__Chief Investment Advisor__ Marc Goulding:
 
 - __email__: gouldingmarc@gmail.com
 - __Phone__: +44 789 442 8838
 - __WhatsApp__: +44 789 442 8838
 - __LinkedIn__: bit.ly/marcgoulding
+
+__Head of Operations__ Quique Barragan:
+
+- __email__: tuputamadre
+- __Phone__: +34 123 456 789
+- __LinkedIn__: oletushuevos
