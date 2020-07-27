@@ -20,6 +20,8 @@ App for tracking portfolio.
 
 Website.
 
+---
+
 Clients:
 - Rich people
 - Boat owners
