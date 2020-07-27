@@ -58,7 +58,7 @@ Martingale with stop loss
 
 [Token-Metrics](https://tokenmetrics.com/?ref=moon)
 
-PwC analysis report on USB for 2019 & 2020.
+PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fintech/assets/pwc-elwood-2019-annual-crypto-hedge-fund-report.pdf) & [2020](https://www.pwc.com/gx/en/financial-services/pdf/pwc-elwood-annual-crypto-hedge-fund-report-may-2020.pdf).
 
 ---
 
