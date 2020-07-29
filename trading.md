@@ -8,9 +8,12 @@ title: Fund
 Regulated licence to trade OPM.
 
 Registered company with corresponding bank account to manage assets.
- Chooose location for tax.
 
-Algorithm. Server for deployment.
+Chooose location for tax.
+
+Algorithm. 
+
+Server for deployment.
 
 Tick data storage system.
 
@@ -47,9 +50,9 @@ Trading Bots out there:
 
 Create an index with top 10 coins based on ...
 
-Using [fuzzy logic](https://medium.com/@abdulazizalghannami/modeling-trading-decisions-using-fuzzy-logic-ff21c431b961) to build strategies
+Using [fuzzy logic](https://medium.com/@abdulazizalghannami/modeling-trading-decisions-using-fuzzy-logic-ff21c431b961) to build strategies.
 
-Martingale with stop loss
+Martingale with stop loss.
 
 ---
 ### Crypto
@@ -79,6 +82,12 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 ---
 ## Random:
 
-[Important article](https://www.euromoney.com/article/b1mhf1sxvlphb3/cryptos-crash-but-never-die-and-funds-of-funds-can-profit)
+1. [Important article](https://www.euromoney.com/article/b1mhf1sxvlphb3/cryptos-crash-but-never-die-and-funds-of-funds-can-profit)
+2. [Harder than you think](https://www.tokendaily.co/blog/why-building-a-quant-fund-in-crypto-is-harder-than-people-think)
 
-[Harder than you think](https://www.tokendaily.co/blog/why-building-a-quant-fund-in-crypto-is-harder-than-people-think)
+## Cosas:
+
+1. Golf.
+2. Cayman Islands / Monaco
+3. Cold storage to protect funds
+
