@@ -44,6 +44,8 @@ Trading Bots out there:
 
 [HodlBot](https://twitter.com/xietoni)
 
+Autonio
+
 ---
 
 ## Trading Algorithm Ideas
