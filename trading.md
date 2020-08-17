@@ -93,3 +93,6 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 2. Cayman Islands / Monaco
 3. Cold storage to protect funds
 
+## Legal aspects:
+
+KYC for BTC clients. To what extent is it necessary?

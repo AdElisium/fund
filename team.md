@@ -7,4 +7,11 @@ title: Team
 
 [ESME](https://humanparts.medium.com/the-last-essay-e8ad0b0aa921)
 
-> Complete LinkedIn courses
+Complete LinkedIn courses
+* Growing instagram
+* Marketing on instagram
+* Leadership
+* Sales
+
+
+[Elon Musk on starting a business](https://www.youtube.com/watch?v=ARoGZIN5oC4)
