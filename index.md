@@ -3,6 +3,7 @@
 We have developed methods to beat the markets during good times and bad times, focusing our strategies on protecting your capital, while achieving higher-than-usual returns.
 
 > "They are safe and they are good" - me (lol)
+> "Most reliable and bulletproof investment I ever made" - Me's Bro
 
 Our investments are based on our advanced algorithm Plutus, named after the greek god of Wealth.
  Plutus is our proprietary trading algorithm.
@@ -29,3 +30,8 @@ __Chief of Operations__ Quique Barragan:
 - __email__: 
 - __Phone__: 
 - __LinkedIn__: 
+
+McLean Goulding:
+
+-__email_: mclgoulding@gmail.com
+-__Phone__: +1 (954) 401-8595
