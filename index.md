@@ -33,5 +33,5 @@ __Chief of Operations__ Quique Barragan:
 
 McLean Goulding:
 
--__email_: mclgoulding@gmail.com
--__Phone__: +1 (954) 401-8595
+- __email__: mclgoulding@gmail.com
+- __Phone__: +1 (954) 401-8595
