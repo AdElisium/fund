@@ -96,3 +96,9 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 ## Legal aspects:
 
 KYC for BTC clients. To what extent is it necessary?
+
+## WEBSITE
+
+* [HTML5 course](https://www.youtube.com/watch?v=DPnqb74Smug)
+* Dimitrus Udemy JS course
+* [Courses](https://studywebdevelopment.com/web-development-courses.html)
