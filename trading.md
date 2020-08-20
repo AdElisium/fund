@@ -102,3 +102,8 @@ KYC for BTC clients. To what extent is it necessary?
 * [HTML5 course](https://www.youtube.com/watch?v=DPnqb74Smug)
 * Dimitrus Udemy JS course
 * [Courses](https://studywebdevelopment.com/web-development-courses.html)
+
+## Lead generation:
+
+Conversion conversations
+Ad -> Landing page -> webinar  <- saturated
