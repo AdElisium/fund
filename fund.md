@@ -80,12 +80,19 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 8. [Mai Capital](https://www.financemagnates.com/cryptocurrency/maicapital-launches-bitcoin-based-quant-fund/)
 10. [Tradery](http://tradery.io/)
 12. RocketFuel.team
+13. [Panxora](https://panxora.io/) - Amna Yousaf
 
 ---
 ## Random:
 
 1. [Important article](https://www.euromoney.com/article/b1mhf1sxvlphb3/cryptos-crash-but-never-die-and-funds-of-funds-can-profit)
 2. [Harder than you think](https://www.tokendaily.co/blog/why-building-a-quant-fund-in-crypto-is-harder-than-people-think)
+3. Random companies I wanna look into:
+  * AlCoin
+  * DATAFORT LTD
+  * First Global Credit
+
+
 
 ## Cosas:
 
@@ -107,3 +114,4 @@ KYC for BTC clients. To what extent is it necessary?
 
 Conversion conversations
 Ad -> Landing page -> webinar  <- saturated
+
