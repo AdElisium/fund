@@ -21,3 +21,22 @@ Youtube: MIT OpenCourseWare channel
 [Flutter tips](https://github.com/erluxman/awesomefluttertips)
 
 Create linkedIn accounts for team. Also create company webpage on linkedin.
+
+## HOW TO EDIT WEBSITE
+
+Setup (do only first time):
+
+Open terminal and type:
+
+    git clone https://github.com/AdElisium/fund.git
+
+How to edit:
+
+    cd fund
+    git pull
+
+Do not close terminal. Make your changes to the files in the fund/ folder. Once done go back to terminal and type:
+
+    git commit -am 'any message'
+    git push origin master
+
