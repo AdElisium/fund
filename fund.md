@@ -93,7 +93,7 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
   * First Global Credit
   * panxora.io
 
-
+---
 
 ## Cosas:
 

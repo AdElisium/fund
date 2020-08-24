@@ -7,6 +7,8 @@ title: Team
 
 [ESME](https://humanparts.medium.com/the-last-essay-e8ad0b0aa921)
 
+---
+
 Complete LinkedIn courses
 * Growing instagram
 * Marketing on instagram
@@ -15,6 +17,7 @@ Complete LinkedIn courses
 
 Youtube: MIT OpenCourseWare channel
 
+---
 
 [Elon Musk on starting a business](https://www.youtube.com/watch?v=ARoGZIN5oC4)
 
@@ -45,3 +48,4 @@ It will ask you for login detals:
 login: MarcGoulding
 password: (ask me if you don't know)
 
+---
