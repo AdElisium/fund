@@ -40,3 +40,8 @@ Do not close terminal. Make your changes to the files in the fund/ folder. Once 
     git commit -am 'any message'
     git push origin master
 
+It will ask you for login detals:
+
+login: MarcGoulding
+password: (ask me if you don't know)
+
