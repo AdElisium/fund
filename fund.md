@@ -91,6 +91,7 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
   * AlCoin
   * DATAFORT LTD
   * First Global Credit
+  * panxora.io
 
 
 
