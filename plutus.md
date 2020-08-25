@@ -11,3 +11,5 @@ title: Plutus
 Bayesian optimisation to tune hyperparameters. Useful for optimising 'black-box' functions where we do not know it's explicit form.
 
 Applying Digital Filters and Spectral Analysis to Signals from charts.
+
+deltaquants.com
