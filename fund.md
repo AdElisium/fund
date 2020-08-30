@@ -118,4 +118,6 @@ Ad -> Landing page -> webinar  <- saturated
 
 ---
 
-# [BUSINESS PLAN](/fund/business_plan.md)
+[BUSINESS PLAN](/fund/business_plan.md)
+
+---
