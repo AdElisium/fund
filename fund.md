@@ -116,3 +116,4 @@ KYC for BTC clients. To what extent is it necessary?
 Conversion conversations
 Ad -> Landing page -> webinar  <- saturated
 
+# [BUSINESS PLAN]({{site.baseurl}}{%link business_plan.md%})

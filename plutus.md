@@ -13,3 +13,5 @@ Bayesian optimisation to tune hyperparameters. Useful for optimising 'black-box'
 Applying Digital Filters and Spectral Analysis to Signals from charts.
 
 deltaquants.com
+
+DataCamp 4h course on Data visualisation iwth python
