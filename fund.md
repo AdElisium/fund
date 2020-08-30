@@ -118,6 +118,6 @@ Ad -> Landing page -> webinar  <- saturated
 
 ---
 
-[BUSINESS PLAN](/fund/business_plan.md)
+[BUSINESS PLAN]({{site.baseurl}}{% link business_plan.md %})
 
 ---
