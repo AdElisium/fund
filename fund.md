@@ -81,6 +81,9 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 10. [Tradery](http://tradery.io/)
 12. RocketFuel.team
 13. [Panxora](https://panxora.io/) - Amna Yousaf
+14. Rebellion Research (AI)
+15. KFL Capital (AI)
+16. NeuralFund (AI)   
 
 ---
 ## Random:
@@ -92,7 +95,7 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
   * DATAFORT LTD
   * First Global Credit
   * panxora.io
-
+4. https://cryptoresearch.report/crypto-research/how-crypto-brokers-and-funds-source-liquidity/
 ---
 
 ## Cosas:
@@ -105,6 +108,19 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 
 KYC for BTC clients. To what extent is it necessary?
 
+Custody of assets:
+
+* Gemini Trust company
+* Conibase Custody Trust Company
+* Fidelity Digital Assets
+
+Auditor:
+* Grant Thornton
+* Raymond Chabot Grant Thornton LLP
+* RSM
+* Spicer Jeffries
+* Self-audited on IPFS
+
 ## WEBSITE
 
 * [HTML5 course](https://www.youtube.com/watch?v=DPnqb74Smug)
@@ -116,3 +132,8 @@ KYC for BTC clients. To what extent is it necessary?
 Conversion conversations
 Ad -> Landing page -> webinar  <- saturated
 
+## FOREX FX
+
+Spread betting is untaxed. CFDs are taxed. ?
+
+LTT does CFDs.
