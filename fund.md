@@ -25,15 +25,6 @@ Website.
 
 ---
 
-Clients:
-- Rich people
-- Boat owners
-- Other funds
-- Insurance companies
-- Charities
-- BTC miners
-- Low-net-worth individuals through signal service
-- Prop Firms
 
 ---
 Trading Bots out there:
@@ -45,6 +36,24 @@ Trading Bots out there:
 [HodlBot](https://twitter.com/xietoni)
 
 Autonio
+
+---
+
+## Funding
+
+Clients:
+- **INSTITUTIONS** (80% of grayscale's inflow)
+- Rich people
+- Boat owners
+- Other funds
+- Insurance companies
+- Charities
+- BTC miners
+- Low-net-worth individuals through signal service
+- Prop Firms
+
+Incubadoras Startups:
+- [aaban](aaban.org)
 
 ---
 
@@ -69,6 +78,8 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 
 ## Other funds out there:
 
+[CryptoFundResearch](https://adelisium.github.io/fund/team.html)
+
 1. [760 funds](https://cryptofundresearch.com/crypto-fund-list-sample-at1?gclid=CjwKCAjwsO_4BRBBEiwAyagRTargZtT73V1j-4cvT8Bj-T6nTADEN_KpXGUhWlaN6G1Y6j14JNUZ0xoCj-sQAvD_BwE)
 
 2. [800 funds](https://cryptofundlist.com/)
@@ -84,6 +95,7 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 14. Rebellion Research (AI)
 15. KFL Capital (AI)
 16. NeuralFund (AI)   
+17. [fund database](https://aum13f.com/person/pantera-digital-asset-gp-llc)
 
 ---
 ## Random:
@@ -94,7 +106,6 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
   * AlCoin
   * DATAFORT LTD
   * First Global Credit
-  * panxora.io
 4. https://cryptoresearch.report/crypto-research/how-crypto-brokers-and-funds-source-liquidity/
 ---
 
@@ -108,11 +119,15 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 
 KYC for BTC clients. To what extent is it necessary?
 
-Custody of assets:
+Custody of assets: (must be FCA registered or SEC regulated custodian)
 
 * Gemini Trust company
 * Conibase Custody Trust Company
 * Fidelity Digital Assets
+* FireBlocks
+* xapo
+* bitgo
+* prime trust
 
 Auditor:
 * Grant Thornton
@@ -132,8 +147,4 @@ Auditor:
 Conversion conversations
 Ad -> Landing page -> webinar  <- saturated
 
-## FOREX FX
 
-Spread betting is untaxed. CFDs are taxed. ?
-
-LTT does CFDs.
