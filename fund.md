@@ -37,6 +37,8 @@ Trading Bots out there:
 
 Autonio
 
+CryptoHopper
+
 ---
 
 ## Funding
@@ -71,8 +73,6 @@ Martingale with stop loss.
 [Top funds 2020](https://blog.tokenmetrics.com/best-crypto-funds/)
 
 [Token-Metrics](https://tokenmetrics.com/?ref=moon)
-
-PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fintech/assets/pwc-elwood-2019-annual-crypto-hedge-fund-report.pdf) & [2020](https://www.pwc.com/gx/en/financial-services/pdf/pwc-elwood-annual-crypto-hedge-fund-report-may-2020.pdf).
 
 ---
 
@@ -109,12 +109,6 @@ PwC analysis report for [2019](https://www.pwc.com/gx/en/financial-services/fint
 4. https://cryptoresearch.report/crypto-research/how-crypto-brokers-and-funds-source-liquidity/
 ---
 
-## Cosas:
-
-1. Golf.
-2. Cayman Islands / Monaco
-3. Cold storage to protect funds
-
 ## Legal aspects:
 
 KYC for BTC clients. To what extent is it necessary?
@@ -128,6 +122,7 @@ Custody of assets: (must be FCA registered or SEC regulated custodian)
 * xapo
 * bitgo
 * prime trust
+* bakkt ?
 
 Auditor:
 * Grant Thornton
@@ -141,6 +136,7 @@ Auditor:
 * [HTML5 course](https://www.youtube.com/watch?v=DPnqb74Smug)
 * Dimitrus Udemy JS course
 * [Courses](https://studywebdevelopment.com/web-development-courses.html)
+* [w3schools](www.w3schools.com)
 
 ## Lead generation:
 

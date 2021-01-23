@@ -8,6 +8,48 @@ title: Team
 [ESME](https://humanparts.medium.com/the-last-essay-e8ad0b0aa921)
 
 ---
+Recommended books by Elon Musk:
+
+* Screw business as usual: turning capitalism into a force for good - Richard Branson
+* Zero to one - Peter Thiel
+* The innovator's dilemma - Clayotn M Christensen
+* Crossing the chasm - Geoffrey A. Moore
+* Creativity Inc: Overcioming the unseen forces that stand in the way of true inspiration - Ed Catmull
+* Good to great - James Collins
+* Start with why - Simon Sinek
+* SuperBosses - Sydney Finkelstein
+* The lean startup - Eric ries
+* Hooked - Nir Eyal
+* The E-myth - Michael Gerber
+* The $100 Startup - Chris Guilolebeau
+* The power of broke - Daymond John
+* The startup Owner's manual - Steve Blank
+* How to transform your ideas into Software products - Poornima Vijayashanker
+* Running lean - Ash maurya
+* Explosive growth - Cliff Lerner
+* The checklist manifesto: how to get things right - Atul gawande
+* The four steps to the epiphany - Steve Blank
+* Traction - Gabriel Weinberg and Justin mares
+* The 7 day startup - Dan norris
+* The art of the start - Guy kawasaki
+* Will it fly? - Thomas K. McKnight
+* Venture deals - Brad Feld
+* Mastering the VC game - Jeffrey bussgang
+* The power of habit - Charles duhigg
+* The 4-hour workweek - Tim Ferris
+* Success is in your sphere: leverage the power of relationships to achieve your business goals - Zvi Band
+* Stillness is the key - Ryan holiday
+* The non-obvious guide to emotional intelligence - Kerry goyette
+* The coffee bean: A simple lesson to create positive change - Jon gordan
+* The bezos letters: 14 principles to grow your business like amazon - Steve anderson
+* Can't hurt me: master your mind and defy the odds - David goggins
+* Digital minimalism: choosing a focused life in a noisy world - Cal newport
+* The surprising science of meetings: how you can lead your team to peak performance - steven rogelberg
+* Shut up and listen! hard business truths that will help you succeed - Tilman Ferrata
+* The trillion dollar coach - Eric schmidt
+* Loonshots - safi bahcall
+
+---
 
 Complete LinkedIn courses
 * Growing instagram

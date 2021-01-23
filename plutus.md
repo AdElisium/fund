@@ -75,3 +75,299 @@ Metric - asset - BTC
 * MTD
 
 Also: correlation of every cryptocurrency with every other cryptocurrency
+
+## Indicators
+
+Name | type | I | P | Entry | Exit | Baseline | Vol | TrailSL | Comments
+:---:|:----:|:-:|:-:|:-----:|:----:|:--------:|:---:|:------: | :------:
+EMA  | overlap | X | X |       |      |          |     |  
+DEMA  |  | X |       |      |          |     |  
+TEMA  |  | X |       |      |          |     |  
+TRIMA  |  | X |       |      |          |     |  
+SMA |  | X |       |      |          |     |  
+WMA |  | X |       |      |          |     |  
+T3 |  | X |       |      |          |     |  
+KAMA |  | X |       |      |          |     |  
+LeastSquaresMA  |  |  |       |      |          |     |  
+WellesMA |  |  |       |      |          |     |  
+VariableMA |  |  |       |      |          |     |  
+VolumeWeightedMA |  |  |       |      |          |     |  
+ZeroLagEMA |  |  |       |      |          |     |  
+MAMA |  |  |       |      |          |     |  
+MACD |  | X |       |      |          |     |  
+MACDExt |  |  |       |      |          |     |  
+Stochastic |  | No |       |      |          |     |  
+StochasticRSI |  | No |       |      |          |     |  
+MAVP |  | X |       |      |          |     |  | |matype=0. TODO - Allow to change setting. 
+MidPoint |  | X |       |      |          |     |  
+MidPrice |  | X |       |      |          |     |  
+HT_Trendline |  | X |       |      |          |     |  
+ParabolicSAR |  | X |       |      |          |     |  | |I like how it accelerates as trend develops
+ParabolicSARExt |  |  |       |      |          |     |  
+Pivot Points|  |  |       |      |          |     |  
+Kijun Sen ||X|||||
+Tenkan Sen ||X|||||
+ADX | momentum | X |       |      |          |     |  
+ADXRating |  | X |       |      |          |     |  
+APO |  | X |       |      |          |     |  
+Aroon |  | X |       |      |          |     |  
+AroonOsc |  | X |       |      |          |     |  
+BOP |  | X |       |      |          |     |  
+CCI |  | X |       |      |          |     |  
+CMO |  | X |       |      |          |     |  
+DX |  | X |       |      |          |     |  
+MFI |  | X |       |      |          |     |  
+Momentum |  | X |       |      |          |     |  
+Mass Index|  | X |       |      |          |     |  
+PPO |  | X |       |      |          |     |  | |matype=0. TODO - Allow to change setting.
+RSI |  | X |       |      |          |     |  
+RVI |  |  |       |      |          |     |  
+ROC |  | X |       |      |          |     |  
+TSI |  |  |       |      |          |     |  
+WilliamsR |  | X |       |      |          |     |  
+UltimateOsc |  | X |       |      |          |     |  
+VHF |  | X |       |      |          |     |  
+Volume | volume | X | X |      |          |     |  
+ChaikinAD | | X |       |      |          |     |  
+ChaikinADOsc|  | X |       |      |          |     |  
+Ease of Movement|  |  |       |      |          |     |  
+OBV|  | X |       |      |          |     |  
+PVO|  |  |       |      |          |     |  
+DPO|  | X | X |      |          |     |  
+CMF|  |  |       |      |          |     |  
+VPT|  |  |       |      |          |     |  
+VWAP|  |  |       |      |          |     |  
+KST Oscillator|  |  |       |      |          |     |  
+Force Index (FI)|  |  |       |      |          |     |  
+Positive Volume Index |  |  |       |      |          |     |  
+Negative Volume Index|  |  |       |      |          |     |  
+ADI|  |  |       |      |          |     |  
+HT_DominantCyclePeriod|cycles| X |     |    |     |    |  
+HT_DominantCyclePhase|  | X |     |      |          |     |
+HT_Phasor Components Real|  | X |     |      |          |     | 
+HT_Phasor Components Imaginary|  | X |     |      |          |     | 
+HT_TrendMode|  | X |     |      |          |     | 
+AveragePrice|price transforms| X |   |    |   |     |  
+MedianPrice|  | X |     |    |      |     |  
+TypicalPrice|  | X |     |     |      |     |  
+WeightedClosePrice|  | X |       |      |          |     |  
+ATR| volatility | X |  |      |          |     |  
+NATR|  | X |       |      |          |     |  
+TRANGE|  | X |       |      |          |     |  
+Chaikin's Volatility|  |  |       |      |          |     |  
+---|  |  |       |      |          |     |  
+Trix| momentum | X | X |      |          |     |  
+Vortex Indicator|  |  |       |      |          |     |  
+Awesome Oscillatotr|  | No |       |      |          |     |  
+Vector Ceiling|  |  |       |      |          |     |  
+Vector Floor|  |  |       |      |          |     |  
+Fisher Transform|  |  |       |      |          |     |  
+Forecast Oscillator|  |  |       |      |          |     |  
+Klinger Volume Oscillator|  |  |       |      |          |     |  
+Williams Accumulation/Distribution|  |  |       |      |          |     |  
+Wilders Smoothing|  |  |       |      |          |     |  
+Mass Index| Trend | X | X |      |          |     |  
+Renko|  | X |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
+|  |  |       |      |          |     |  
