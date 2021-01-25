@@ -189,3 +189,22 @@ A year from now we'll see who was really working.
 
 I want to see my whole squad winning. ----- If you feel the same bring a friend and you both get a discount!
 
+_The challenge is not in making moneey. It is in keeping it._ - Peter Brandt
+
+_Limit your size in any position so that fear does not beomce the prevailing instinct guiding your judgement._ Joe Vidich
+
+_Listen to what the market is saying about others. Not what others are saying about the market._ - Richard Wyckoff
+
+It's not a loss that hurts. It's the size of the loss. --- Cut your losses.
+
+_In trading, when there is nothing to do, the best thing to do is nothing._ Scott Bessent
+
+_Winners are not afraid of losing. Losers are_ - Robert Kiyosaki
+
+_Most people trade for excitement and thrill. Real money is made when trading becomes boring._ - Meghara V. Malkan
+
+_If most traders would learn to sit on their hands 50% of the time, they would make a lot more money._ - Bil Lipschutz
+
+_When you are getting beat to death, get your head out of the mixer._ - Richard Dennis ---- Cut your losses quick
+
+_Don't focus on making money. Focus on protecting what you have._ - Paul Tudor Jones
