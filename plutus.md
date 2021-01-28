@@ -14,11 +14,11 @@ Applying Digital Filters and Spectral Analysis to Signals from charts.
 
 deltaquants.com
 
-DataCamp 4h course on Data visualisation iwth python
+DataCamp 4h course on Data visualisation with python
 
 ---
 
-
+[__Use VPVR for S/R levels__](https://tcoil.info/volume-profile-for-stocks-in-python-vpvr-indicator-volume-profile-visible-range/)
 
 ---
 
@@ -168,7 +168,7 @@ Williams Accumulation/Distribution|  |  |       |      |          |     |
 Wilders Smoothing|  |  |       |      |          |     |  
 Mass Index| Trend | X | X |      |          |     |  
 Renko|  | X |       |      |          |     |  
-|  |  |       |      |          |     |  
+VPVR|  |  |       |      |          |     |  
 |  |  |       |      |          |     |  
 |  |  |       |      |          |     |  
 |  |  |       |      |          |     |  
