@@ -51,6 +51,26 @@ Recommended books by Elon Musk:
 
 ---
 
+* Lean startup - Ries
+* Mindgames - Phil Jackson's
+* Becoming steve jobs - Brent Schlender
+* Steve jobs - Walter Isaacson
+* The launch pad - Randall Stross
+* Finding my virginity - Richard Branson
+* The power of broke - Daymond John
+* Prepared: What kids need for a fulfilled life - Diane Tavenner
+* Good economics, bad economics - Esther Duflo
+* The headspace guide to meditation and mindfulness - Andy Puddicombe
+* Outliers: the story of success - Malcolm Gladwell
+* Shoe dog - Phil Knight
+* Business adventures - John Brooks
+* Life is what you make it - Peter Buffett
+ The man who solved the market. How Jim Simons launched the quant revolution - Gregory Zuckerman
+ * Creativity Inc - Ed Catmull
+ * How to win friends and influence - Carnegie
+
+---
+
 Complete LinkedIn courses
 * Growing instagram
 * Marketing on instagram
