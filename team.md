@@ -8,7 +8,8 @@ title: Team
 [ESME](https://humanparts.medium.com/the-last-essay-e8ad0b0aa921)
 
 ---
-Recommended books by Elon Musk:
+Free ebook download: libgen.rs
+Recommended books:
 
 * Screw business as usual: turning capitalism into a force for good - Richard Branson
 * Zero to one - Peter Thiel
@@ -69,6 +70,8 @@ Recommended books by Elon Musk:
  * Creativity Inc - Ed Catmull
  * How to win friends and influence - Carnegie
 
+
+* (TRADING) The Book of Back-tests: Trading Objectively: Back-testing and demystifying trading strategies - Mr Sofien Kaabar
 ---
 
 Complete LinkedIn courses

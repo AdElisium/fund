@@ -131,6 +131,9 @@ Auditor:
 * Spicer Jeffries
 * Self-audited on IPFS
 
+Tax information disclaimer:
+Please note that Grayscale does not provide tax, legal, or accounting advice. Our materials have been prepared for informational purposes only, and are not intended to provide, and should not be relied on for, tax, legal, or accounting advice. You should consult your own tax, legal, and accounting advisors before engaging in any transaction.
+
 ## WEBSITE
 
 * [HTML5 course](https://www.youtube.com/watch?v=DPnqb74Smug)
