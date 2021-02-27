@@ -81,6 +81,7 @@ Recommended books:
 * The art of war - Sun Tzu
 * Reclaiming fire: how successful people overcome burnout - Steven Berglass
 * Influence: Science and practice - Robert Cialdini
+* Pre-suasion: A revolutionary way to influence and persuade - Robert Cialdini
 * The small BIG - Robert Cialdini
 * 50 Scientifically proven ways to be persuasive - Robert Cialdini
 
