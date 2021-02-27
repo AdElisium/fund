@@ -5,6 +5,8 @@ title: Business_plan
 
 Business plan schedule: 2-4 months.
 
+SWOT Analysis
+
 Skills required for each role. Do we have skills. If not, what are we gonna  do about it?
 * Technology
 * Tools
@@ -52,7 +54,7 @@ To consider:
 * selecting right staff
 * associates, partners, collaborators.
 
-How to keep motivation and everyone on same page?
+#### How to keep motivation and everyone on same page?
 
 Specialists for help:
 * Accountant:
@@ -73,7 +75,7 @@ Management, Marketing, Money.
 
 Management:
 
-Do we have skills required for admin, including money matters? Motivation and technical skills to produce services we envisage? Do we have bility to sell services to potential clients?
+Do we have skills required for admin, including money matters? Motivation and technical skills to produce services we envisage? Do we have ability to sell services to potential clients?
 
 Marketing:
 

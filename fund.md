@@ -113,7 +113,7 @@ Martingale with stop loss.
 
 KYC for BTC clients. To what extent is it necessary?
 
-Custody of assets: (must be FCA registered or SEC regulated custodian)
+### Custody of assets: (must be FCA registered or SEC regulated custodian)
 
 * Gemini Trust company
 * Conibase Custody Trust Company
@@ -124,15 +124,22 @@ Custody of assets: (must be FCA registered or SEC regulated custodian)
 * prime trust
 * bakkt ?
 
-Auditor:
+### Auditor:
 * Grant Thornton
 * Raymond Chabot Grant Thornton LLP
 * RSM
 * Spicer Jeffries
 * Self-audited on IPFS
 
-Tax information disclaimer:
+### Investing disclaimer:
+
+This is not financial advice. Do your own research before investing in crypto.
+
+### Tax information disclaimer:
+
 Please note that Grayscale does not provide tax, legal, or accounting advice. Our materials have been prepared for informational purposes only, and are not intended to provide, and should not be relied on for, tax, legal, or accounting advice. You should consult your own tax, legal, and accounting advisors before engaging in any transaction.
+
+
 
 ## WEBSITE
 

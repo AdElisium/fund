@@ -20,22 +20,16 @@ __Plutus__ manages our investments and proposes new opportunities.
 
 __Chief Investment Advisor__ Marc Goulding:
 
-- __email__: gouldingmarc@gmail.com
+- __email__: mgoulding@cripto.tech
 - __Phone__: +44 789 442 8838
 - __WhatsApp__: +44 789 442 8838
 - __LinkedIn__: bit.ly/marcgoulding
 
 __Chief of Operations__ Quique Barragan:
 
-- __email__: quiquebarragan@gmail.com
+- __email__: ebarragan@cripto.tech
 - __Phone__: 
 - __LinkedIn__: 
-
-McLean Goulding:
-
-- __email__: mclgoulding@gmail.com
-- __Phone__: +1 (954) 401-8595
-
 
 # Cryptocurrency Grows up
 

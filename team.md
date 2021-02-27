@@ -70,15 +70,24 @@ Recommended books:
  * Creativity Inc - Ed Catmull
  * How to win friends and influence - Carnegie
 
+---
+
+* The essays of Warren Buffet - Lawrence Cunningham
+* The intelligent investor - Benjamin Graham
+* The effective Executive - Peter Drucker
+* Remember every name every time - Benjamin Levy
+* The 48 laws of power - Robert Keister
+* Influence: the psychology of persuasion - Robert Cialdini
+* The art of war - Sun Tzu
+* Reclaiming fire: how successful people overcome burnout - Steven Berglass
+* Influence: Science and practice - Robert Cialdini
+* The small BIG - Robert Cialdini
+* 50 Scientifically proven ways to be persuasive - Robert Cialdini
 
 * (TRADING) The Book of Back-tests: Trading Objectively: Back-testing and demystifying trading strategies - Mr Sofien Kaabar
 ---
 
 Complete LinkedIn courses
-* Growing instagram
-* Marketing on instagram
-* Leadership
-* Sales
 
 Youtube: MIT OpenCourseWare channel
 
@@ -90,7 +99,7 @@ Youtube: MIT OpenCourseWare channel
 
 Create linkedIn accounts for team. Also create company webpage on linkedin.
 
-## HOW TO EDIT WEBSITE
+## HOW TO EDIT THIS WEBSITE
 
 Setup (do only first time):
 
@@ -111,6 +120,6 @@ Do not close terminal. Make your changes to the files in the fund/ folder. Once 
 It will ask you for login detals:
 
 login: MarcGoulding
-password: (ask me if you don't know)
+password: (ask me if you don't know) (Github password)
 
 ---
