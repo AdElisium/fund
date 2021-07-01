@@ -86,6 +86,12 @@ Also: correlation of every cryptocurrency with every other cryptocurrency
 
 ## Indicators
 
+I = Implemented.
+
+P = Plottable
+
+Entry, Exit... = Tested as entry indicator in NNFX model
+
 Name | type | I | P | Entry | Exit | Baseline | Vol | TrailSL | Comments
 :---:|:----:|:-:|:-:|:-----:|:----:|:--------:|:---:|:------: | :------:
 EMA  | overlap | X | X |       |      |          |     |  
