@@ -10,16 +10,15 @@ title: Team
 ---
 Free ebook download: libgen.rs
 Recommended books:
-
 * Screw business as usual: turning capitalism into a force for good - Richard Branson
-* Zero to one - Peter Thiel
+* Influence - Robert Cialdini (THIS IS THE ONE)
+* High Output Management - Andrew Grove
 * The innovator's dilemma - Clayotn M Christensen
 * Crossing the chasm - Geoffrey A. Moore
 * Creativity Inc: Overcioming the unseen forces that stand in the way of true inspiration - Ed Catmull
 * Good to great - James Collins
 * Start with why - Simon Sinek
 * SuperBosses - Sydney Finkelstein
-* The lean startup - Eric ries
 * Hooked - Nir Eyal
 * The E-myth - Michael Gerber
 * The $100 Startup - Chris Guilolebeau
@@ -52,7 +51,6 @@ Recommended books:
 
 ---
 
-* Lean startup - Ries
 * Mindgames - Phil Jackson's
 * Becoming steve jobs - Brent Schlender
 * Steve jobs - Walter Isaacson
@@ -66,9 +64,8 @@ Recommended books:
 * Shoe dog - Phil Knight
 * Business adventures - John Brooks
 * Life is what you make it - Peter Buffett
- The man who solved the market. How Jim Simons launched the quant revolution - Gregory Zuckerman
- * Creativity Inc - Ed Catmull
- * How to win friends and influence - Carnegie
+* Creativity Inc - Ed Catmull
+* How to win friends and influence - Carnegie
 
 ---
 
