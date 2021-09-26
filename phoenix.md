@@ -7,6 +7,10 @@ title: Phoenix
 
 ## Quotes
 
+Patience increases the odds of winning.
+
+Aim big. Start Small.
+
 100% Money back guarantee
 
 Choosing the right broker is the first step towards success

@@ -65,10 +65,11 @@ Recommended books:
 * Business adventures - John Brooks
 * Life is what you make it - Peter Buffett
 * Creativity Inc - Ed Catmull
-* How to win friends and influence - Carnegie
+* How to win friends and influence people - Carnegie
 
 ---
 
+* The millionaire next door
 * The essays of Warren Buffet - Lawrence Cunningham
 * The intelligent investor - Benjamin Graham
 * The effective Executive - Peter Drucker
