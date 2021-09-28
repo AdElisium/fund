@@ -10,6 +10,7 @@ title: Team
 ---
 Free ebook download: libgen.rs
 Recommended books:
+* atomic habits
 * Screw business as usual: turning capitalism into a force for good - Richard Branson
 * Influence - Robert Cialdini (THIS IS THE ONE)
 * High Output Management - Andrew Grove
@@ -65,7 +66,9 @@ Recommended books:
 * Business adventures - John Brooks
 * Life is what you make it - Peter Buffett
 * Creativity Inc - Ed Catmull
-* How to win friends and influence people - Carnegie
+* How to win friends and influence people - Dale Carnegie
+* Psychology of money - Morgan Hausel
+
 
 ---
 
@@ -82,6 +85,24 @@ Recommended books:
 * Pre-suasion: A revolutionary way to influence and persuade - Robert Cialdini
 * The small BIG - Robert Cialdini
 * 50 Scientifically proven ways to be persuasive - Robert Cialdini
+
+---
+Short books:
+* The alchemist - Paulo Coelho
+* The greatest salesman in the world - Og Mandino 
+* Man's search for meaning - Viktor Frankl
+* The gifts of imperfection - Brene Brown
+* As a man thinketh - James Allen
+* Eat that frog - Brian Tracy
+* The war of art - Steven Pressfield
+* The four agreements - Don Miguel Ruiz
+* The compund effect - Darren Hardy
+* The richest man in babylon - George
+
+---
+
+* What every body is saying - Joe Navarro
+* How to talk to anyone. 92 little tricks for big success in relationships - Leil Lowndes
 
 * (TRADING) The Book of Back-tests: Trading Objectively: Back-testing and demystifying trading strategies - Mr Sofien Kaabar
 ---
